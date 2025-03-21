@@ -1,0 +1,78 @@
+---
+title: "Publicações"
+# image: profile/profile.png
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## 2014 – Presente: DMSS Software Ltda
+
+[![](images/logo-dmss.png){fig-alt="Clique aqui para acessar o site da DMSS."
+fig-align="center" width="50%"}](https://dmss.com.br/)
+
+Cargo: *Analista de Dados/Consultor de Negócios Pleno*
+
+### Principais atividades:
+
+-   Elaboração e aplicação de treinamentos presenciais e no formato EAD
+    para a utilização dos softwares estatísticos e de Data Mining da
+    família IBM SPSS (em especial, Modeler e Statistics).
+-   Consultoria técnica/estatística.
+-   Desenvolvimento e manutenção de aplicações baseadas em Python e R e
+    que estão integradas com softwares da família IBM SPSS.
+
+### Consultorias técnicas e estatísticas:
+
+-   *ITI (São Paulo/Brasília, 2024)*: treinamento adicional de
+    utilização do IBM SPSS Statistics no contexto de automatização das
+    etapas de importação, preparação e análise de dados de certificados
+    digitais; revisão e atualização de um modelo de identificação de
+    fraudes em certificados digitais.
+-   *Honda (São Paulo, 2020)*: treinamento de modelos de séries
+    temporais no IBM SPSS Statistics para a previsão de vendas de alguns
+    dos principais modelos de moto; realização de análise fatorial com
+    base na opinião de clientes selecionados.
+-   *Nissin Foods do Brasil (São Paulo, 2019)*: treinamento de
+    utilização do IBM SPSS Statistics no contexto de pesquisa de
+    mercado; criação de uma aplicação baseada em R para análise de
+    sensibilidade de preço (PSM).
+-   *CEEE (São Paulo/Porto Alegre, 2018)*: treinamento de utilização do
+    IBM SPSS Statistics no contexto de análise de séries temporais;
+    treinamento e validação de modelos preditivos de séries temporais
+    para dados de consumo de energia.
+
+### Competências desenvolvidas:
+
+-   *Análise estatística*: importação e preparação de dados; análise
+    exploratória de dados; análise inferencial; modelagem preditiva;
+    modelos de aprendizado de máquina (machine learning); avaliação e
+    atualização de modelos; construção de relatórios.
+
+-   *Mineração de dados* via metodologia CRISP-DM (*Cross-Industry
+    Standard Process for Data Mining*).
+
+-   *Modelos de classificação*: Modelos Lineares Generalizados
+    (Regressão Logística, Modelo Log-Linear de Poisson e Modelo Binomial
+    Negativo); Árvores de Decisão (CHAID, CRT e QUEST); Florestas
+    Aleatórias; Redes Neurais MLP; Support Vector Machines (SVM); Redes
+    Bayesianas; Análise Discriminante.
+
+-   *Modelos de regressão*: Modelos Lineares Univariados e
+    Multivariados; Modelos Lineares Mistos; Modelos Lineares
+    Generalizados (Gama e Normal Inverso); Regressão de Cox para dados
+    de sobrevivência.
+
+-   *Modelos de agrupamento*: K-Médias; Cluster Hierárquico; TwoStep
+    Cluster.
+
+-   *Análise e modelagem de séries temporais* via modelos de suavização
+    exponencial e ARIMA.
+
+-   *Linguagens de programação*: Python, R, sintaxe do IBM SPSS
+    Statistics e linguagem CLEM do IBM SPSS Modeler.
+
+-   *Visualização de dados*: IBM SPSS Statistics, IBM SPSS Modeler,
+    Python, R e Microsoft Power BI.

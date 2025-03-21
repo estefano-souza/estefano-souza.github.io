@@ -1,0 +1,46 @@
+---
+title: "Estéfano Souza"
+subtitle: "Estatístico | Analista de Dados"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile/profile.png
+about: # https://quarto.org/docs/websites/website-about.html
+  template: broadside
+  image-shape: rounded
+  image-width: 25%
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/estefano-souza
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/estefano-souza
+#    - icon: instagram
+#      text: "Instagram"
+#      href: https://instagram.com/estefano_souza
+---
+
+*"Oi, eu sou o Estéfano!"*
+
+Este é o espaço no qual compartilho um pouco da minha jornada até aqui, além de
+algumas coisas sobre Estatística, Ciência de Dados, Machine Learning e outras
+coisas que (provavelmente) só eu acompanho, mas fique à vontade para também me
+seguir nesta jornada.
+
+Sou estatístico formado desde 2006 (mais exatamente, desde janeiro de 2007,
+quando houve a colação de grau oficial) pelo IME-USP, onde também fiz Mestrado
+(2007-09) e Doutorado (2009-2013), este último com ênfase em Processos
+Estocásticos baseados em Sistemas Markovianos de Partículas.
+
+Durante o Bacharelado em Estatística, tive minha primeira experiência prática
+com modelos de árvores de decisão, assim como meu primeiro contato com a
+linguagem R, que já dava seus primeiros passos como uma ferramenta de análise e
+modelagem de dados. Com o tempo, fui aprendendo outras linguagens para a
+realização de diversas tarefas relacionadas à Ciência de Dados.
+
+<!-- ## Education -->
+
+<!-- University of XYZ, City \| Location \| Sept 20XX - June 20XX -->
+
+<!-- ## Experience -->
+
+<!-- Workplace \| Job title \| April 20XX - present -->

@@ -1,0 +1,11 @@
+---
+title: "Posts"
+format: html
+lang: pt-br
+listing:
+  contents: /
+  sort: "date"
+  date-format: "DD-MMM-YYYY"
+  type: grid
+---
+
