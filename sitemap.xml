@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://estefano-souza.github.io/talks.html</loc>
-    <lastmod>2025-03-11T19:58:44.000Z</lastmod>
+    <loc>https://estefano-souza.github.io/posts/fraud-model-kaggle/index.html</loc>
+    <lastmod>2025-03-21T13:50:51.242Z</lastmod>
   </url>
   <url>
-    <loc>https://estefano-souza.github.io/posts/index.html</loc>
-    <lastmod>2025-03-14T19:14:27.000Z</lastmod>
+    <loc>https://estefano-souza.github.io/profile/publications.html</loc>
+    <lastmod>2025-03-21T13:50:51.256Z</lastmod>
+  </url>
+  <url>
+    <loc>https://estefano-souza.github.io/profile/experience.html</loc>
+    <lastmod>2025-03-21T13:50:51.247Z</lastmod>
   </url>
   <url>
     <loc>https://estefano-souza.github.io/index.html</loc>
-    <lastmod>2025-03-16T15:03:18.959Z</lastmod>
+    <lastmod>2025-03-21T13:50:51.241Z</lastmod>
   </url>
   <url>
-    <loc>https://estefano-souza.github.io/blog/second-post/index.html</loc>
-    <lastmod>2024-08-07T22:14:14.000Z</lastmod>
+    <loc>https://estefano-souza.github.io/profile/certifications.html</loc>
+    <lastmod>2025-03-21T13:50:51.247Z</lastmod>
   </url>
   <url>
-    <loc>https://estefano-souza.github.io/blog/first-post/index.html</loc>
-    <lastmod>2024-08-07T22:14:14.000Z</lastmod>
+    <loc>https://estefano-souza.github.io/profile/academics.html</loc>
+    <lastmod>2025-03-21T13:50:51.247Z</lastmod>
   </url>
   <url>
-    <loc>https://estefano-souza.github.io/blog/index.html</loc>
-    <lastmod>2025-03-13T15:43:07.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://estefano-souza.github.io/blog/third-post/index.html</loc>
-    <lastmod>2024-08-07T22:14:14.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://estefano-souza.github.io/posts/fraud-model-kaggle/index.html</loc>
-    <lastmod>2025-03-16T18:01:21.108Z</lastmod>
-  </url>
-  <url>
-    <loc>https://estefano-souza.github.io/projects/index.html</loc>
-    <lastmod>2025-03-13T15:50:37.000Z</lastmod>
+    <loc>https://estefano-souza.github.io/posts/index.html</loc>
+    <lastmod>2025-03-21T13:50:51.247Z</lastmod>
   </url>
 </urlset>
