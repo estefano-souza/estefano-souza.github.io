@@ -122,7 +122,7 @@
     "href": "index.html",
     "title": "Estéfano Souza",
     "section": "",
-    "text": "“Oi, eu sou o Estéfano!”\nEste é o espaço no qual compartilho um pouco da minha jornada até aqui, além de algumas coisas sobre Estatística, Ciência de Dados, Machine Learning e outras coisas que (provavelmente) só eu acompanho, mas fique à vontade para também me seguir nesta jornada.\nSou estatístico formado desde 2006 (mais exatamente, desde janeiro de 2007, quando houve a colação de grau oficial) pelo IME-USP, onde também fiz Mestrado (2007-09) e Doutorado (2009-2013), este último com ênfase em Processos Estocásticos baseados em Sistemas Markovianos de Partículas.\nDurante o Bacharelado em Estatística, tive minha primeira experiência prática com modelos de árvores de decisão, assim como meu primeiro contato com a linguagem R, que já dava seus primeiros passos como uma ferramenta de análise e modelagem de dados. Com o tempo, fui aprendendo outras linguagens para a realização de diversas tarefas relacionadas à Ciência de Dados."
+    "text": "“Oi, eu sou o Estéfano!”\nEste é o espaço no qual compartilho um pouco da minha jornada até aqui, além de alguns tópicos interessantes sobre Estatística, Ciência de Dados, Machine Learning e outras coisas que (provavelmente) só eu acompanho. Fique à vontade para me seguir nesta jornada!\nSou estatístico formado desde 2006 (mais exatamente, desde janeiro de 2007, quando houve a colação de grau oficial) pelo IME-USP, onde também fiz Mestrado (2007-09) e Doutorado (2009-2013), este último com ênfase em Processos Estocásticos baseados em Sistemas Markovianos de Partículas.\nDurante o Bacharelado em Estatística, tive minha primeira experiência prática com modelos de árvores de decisão, assim como meu primeiro contato com a linguagem R, que já dava seus primeiros passos como uma ferramenta para análise e modelagem de dados. Com o tempo, fui aprendendo outras linguagens para a realização de diversas tarefas relacionadas à Ciência de Dados.\nDesde 2014, trabalho de forma direta com análise de dados e dou consultoria e treinamento concentrados no portfólio da família IBM SPSS. Além das linguagens nativas do SPSS Statistics e do SPSS Modeler, também há a possibilidade de integrar estes dois softwares com códigos escritos em Python e R, permitindo o desenvolvimento e manutenção de aplicações baseadas nessas linguagens."
   },
   {
     "objectID": "profile/certifications.html",
@@ -179,6 +179,6 @@
     "href": "posts/index.html",
     "title": "Posts",
     "section": "",
-    "text": "Modelos de Classificação de Fraude para Dados Desbalanceados\n\n\nNosso objetivo principal é explorar alguns recursos de preparação, análise e modelagem de dados dentro do software R, com base em um exemplo de classificação de fraude a…\n\n\n\nEstéfano Souza\n\n\n18-jan-2024\n\n\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Aqui é o espaço no qual apresento algumas ideias sobre Estatística, análise de dados, machine learning e outros tópicos relacionados.\n\n\n\n\n\n\n\n\n\n\n\n\nModelos de Classificação de Fraude para Dados Desbalanceados\n\n\nNosso objetivo principal é explorar alguns recursos de preparação, análise e modelagem de dados dentro do software R, com base em um exemplo de classificação de fraude a…\n\n\n\nEstéfano Souza\n\n\n18-jan-2024\n\n\n\n\n\n\n\n\nNenhum item correspondente"
   }
 ]
