@@ -1,11 +1,18 @@
 ---
 title: "Posts"
 format: html
+about:
+  template: jolla
 lang: pt-br
 listing:
   contents: /
   sort: "date"
   date-format: "DD-MMM-YYYY"
   type: grid
+editor:
+  markdown: 
+    wrap: 72
 ---
 
+Aqui é o espaço no qual apresento algumas ideias sobre Estatística,
+análise de dados, *machine learning* e outros tópicos relacionados.

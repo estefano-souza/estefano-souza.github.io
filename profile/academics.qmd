@@ -6,6 +6,7 @@ about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   # image-shape: round
   # image-width: 80%
+lang: pt-br
 editor: 
   markdown: 
     wrap: 72

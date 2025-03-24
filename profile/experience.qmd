@@ -3,6 +3,7 @@ title: "Experiência Profissional"
 # image: profile/profile.png
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
+lang: pt-br
 editor: 
   markdown: 
     wrap: 72
